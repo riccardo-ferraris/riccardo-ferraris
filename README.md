@@ -1,4 +1,3 @@
-## Hi there 👋
 ## Welcome to my GitHub Profile
 ### I'm Riccardo Ferraris and I'm an IT student in University of Salerno
 
