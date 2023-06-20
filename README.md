@@ -1,4 +1,6 @@
 ### Hi there 👋
+### Welcome to my GitHub Profile
+## I'm Riccardo Ferraris and I'm an IT student in University of Salerno
 
 <!--
 **riccardo-ferraris/riccardo-ferraris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
