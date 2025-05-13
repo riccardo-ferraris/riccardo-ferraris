@@ -1,5 +1,5 @@
 ## Welcome to my GitHub Profile
-### I'm Riccardo Ferraris and I'm an IT student in University of Salerno
+### I'm Riccardo Ferraris and I'm a Software Developer
 
 [![Riccardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=riccardo-ferraris&show_icons=true&theme=radical)](https://github.com/riccardo-ferraris/github-readme-stats)
 
